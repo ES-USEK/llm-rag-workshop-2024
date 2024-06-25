@@ -9,6 +9,7 @@ notebook = "==7.1.2"
 openai = "*"
 elasticsearch = "*"
 wget = "*"
+streamlit = "*"
 
 [dev-packages]
 
